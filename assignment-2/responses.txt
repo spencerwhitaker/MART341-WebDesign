@@ -1,0 +1,18 @@
+1. How is the world wide web different than the internet?
+  The internet is a structure or framework that allows users to access various things, including the world wide web.
+  The world wide web is a collection of information that is accessed by the connection of the internet's networks.
+2. Briefly describe how the internet works.
+  The internet is composed of various networks. To access this, one can use a Local Area Network (LAN) or an Internet Service Provider (ISP). 
+  Messages are sent between different parts of the network through packets that are packed, transported, and unpacked following certain protocols. 
+  The networks are built through several levels and include many components, including modems, routers, and physical connections to servers.
+3. What is a directory, and what is its relationship to files?
+  The directory is a "folder" that houses files of different types. Directories can be nested and are referred to in familial terms, i.e. "parent folder."
+4. How will VCS benefit you?
+  VCS will benefit me by allowing me to see an overview of the changes I have made, which will be helpful to find possible mistakes or revert back to older versions of a project. 
+  It will also aid in collaboration, as others will be able to see my progress
+5. Take a screenshot anytime while working on your homework.
+  Done.
+6. What is your favorite kind of art?
+  My favorite "kind" of art is empathetic and exploratory of the human experience. My favorite "medium" of art is photography, both stills and motion.
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory
+  Done.
