@@ -1,0 +1,41 @@
+My responses:
+
+How is the world wide web different than the internet?
+
+The internet, in the most basic sense, is a network of networks. It's a decentralized system that provides a framework for the transfer of data from one device to another. The world wide web is a collection of information and sites that can be accessed using the physical connections of the internet.
+
+Briefly describe how the internet works.
+
+The internet is a network that sends data from one device to another. To do so, the data is packaged into manageable sized packages, each with their own description and protocol. These packages are then transferred through a series of routers and cables. The packages take the path of least resistance, similar to a GPS avoiding traffic. These packages arrive out of order but are reorganized and displayed upon entry.
+
+Briefly describe one way how data travels on the internet.
+
+I think I kind of went into this in the previous question, but to provide a clearer example, I will describe how I could send an image to you. When I send my image over the internet, the image will be broken up to small packages of binary data, which are labeled and given protocol information. Those packages will be send to my wireless router/modem setup. Then the packages will be transferred using light waves and following the quickest path along physical cables until they reach your router, where they will be wirelessly transferred to your device through  radio waves. When they reach your device the protocols of each package will tell your device how to order and display them, then my photo will load and appear on your screen.
+
+What is the relationship between an IP address and the DNS?
+
+The IP address is the actual numerical "name" for a given site. The DNS is a server of sorts that when you type in "google.com" goes into its directory and matches the URL you've given it with the actions IP address.
+
+What is a cookie?
+
+A small file stored locally while using a site that record user activity.
+
+List the three essential parts of a URL.
+
+- protocol
+- domain
+- path
+
+In your README.md, use Markdown and add the title "Assignment 3" with a heading 1. Underneath, add your name as a heading 2
+
+Done
+
+Add a paragraph sharing why you decided to take the class!
+
+Two of my classes for the semester were dropped, allowing me the chance to take pretty much any class within media arts that interested me. I took Creative Coding I in Fall 2019, and while that class was way out of my comfort zone and forced me to think in very different ways, I thoroughly enjoyed "starting from scratch" and learning something new. Having that little bit of coding and design background, I thought it would be fun/beneficial to take things a step further and in a direction that interested me. I have my own photography website (spencerwhitaker.com), but that is hosted through Squarespace and is a mostly "drag and drop" format. I thought it would be helpful and fun to be able to at least understand how the design of websites works and maybe even be able to incorporate aspects of what I learn into my own sites. I know Squarespace has features that allow users to write their own HTML and CSS to customize their site, so I'd love to get into that and make my online presence a bit more personal and creative.
+
+Add a list of three things you've learned, or hope to learn.
+
+1. I've learned, or at least refreshed, my basic knowledge of the workings of the internet.
+2. I hope to learn how to use technique to incorporate aesthetic and artistic elements to websites.
+3. I hope to learn the basics of web development, ideally how to create a basic website from scratch.
