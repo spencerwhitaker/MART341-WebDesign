@@ -1,0 +1,56 @@
+#title, #author-name
+{
+  font-family: 'Lora Bold', sans-serif;
+  text-align: center;
+}
+
+#title
+{
+  text-decoration: underline;
+
+}
+
+#website-link
+{
+  font-family: 'Merriweather-LightItalic', serif;
+  font-size: 8pt;
+  color: #212586;
+  text-align: center;
+}
+
+a:link {
+   color: #79AF33;
+   text-decoration: underline;
+}
+
+a:visited {
+   color: #D4D4D4;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #212586;
+   font-style: bolder;
+   font-style: italic;
+   font-size: 1.1em;
+}
+
+#poem
+{
+  font-family: 'Merriweather-LightItalic', georgia;
+  font-size: italic;
+  text-align: center;
+  line-height: 1.45em;
+  background-color: #D3D3D3;
+  width: 30%;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-style: solid;
+  border-color: #212586;
+}
+
+#poem::first-line
+{
+  color: #212586;
+}

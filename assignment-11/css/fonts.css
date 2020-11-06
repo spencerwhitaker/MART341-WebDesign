@@ -1,0 +1,13 @@
+@font-face {
+   font-family: 'Lora Bold';
+   src: url('assignment-11/fonts/Lora-Bold.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Merriweather-LigthItalic';
+   src: url('assignment-11/fonts/Merriweather-LightItalic.ttf') format('truetype');
+   font-weight: normal;
+   font-style: italic;
+}
