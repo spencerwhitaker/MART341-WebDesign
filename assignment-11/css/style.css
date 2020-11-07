@@ -37,7 +37,7 @@ a:hover {
 
 #poem
 {
-  font-family: 'Merriweather-LightItalic', georgia;
+  font-family: 'Merriweather-LightItalic';
   font-size: italic;
   text-align: center;
   line-height: 1.45em;
