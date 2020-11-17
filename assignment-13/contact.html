@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Spencer Whitaker">
+    <meta name="description" content="assignment-13-contact">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./css/style.css" / >
+    <link rel="stylesheet" type="text/css" href="./css/fonts.css" / >
+    <title>Assignment-13-Contact</title>
+  </head>
+
+  <body>
+
+    <header>
+      <!-- Nav Bar header tag -->
+       <div class="menu title">
+         <h4>Men's Hair Salon</h4>
+       </div>
+       <div class="menu item-1">
+          <a href="./index.html">Home</a>
+       </div>
+       <div class="menu item-2">
+          <a href="./services.html">Services</a>
+       </div>
+       <div class="menu item-3">
+          <a href="./contact.html">Contact</a>
+       </div>
+       <div class="menu item-4-dropdown" id="About-Dropdown">
+          <a href="./about.html">About</a>
+            <div class="dropdown-content">
+              <div class="dropdown item-1">
+                <a href="https://detroitbarbers.com/pages/haircut-styles-for-men">Haircut Styles</a>
+              </div>
+              <div class="dropdown item-2">
+                <a href="https://www.nationalbarbermuseum.org/about/barbering-timeline">History of Barbers</a>
+              </div>
+              <div class="dropdown item-3">
+                <a href="https://www.smithsonianmag.com/smart-news/how-george-washington-did-his-hair-180955547/A">George Washington's Haircut</a>
+              </div>
+            </div>
+          </div>
+    </header>
+
+    <div>
+    <h3>Contact</h3>
+    </div>
+
+    <hr>
+
+    <div class="container-contact-content">
+      <div class="contact-text">
+        Looking to schedule an appointment? Fill out the form below and we will be in touch!
+      </div>
+      <div class="contact-form">
+        <form action="http://www.google.com" method="get" id="form-submission" class="form-info">
+          First & Last Name:
+          <input type="text" name="Guest Name" placeholder="full name">
+          <br>
+          Hair Cut:
+          <input type="radio" name="Cut" value="Hair Cut" checked>
+          <br>
+          Hair Cleaning:
+          <input type="radio" name="Cleaning" value="Hair Clean">
+          <br>
+          Beard Trim:
+          <input type="radio" name="Beard" value="Beard Trim">
+          <br>
+          Any Specific Requests? Write them below!
+          <br>
+          <textarea name="requests" rows="5" cols="80"></textarea>
+          <br>
+          <input type="submit" name="specifics">
+        </form>
+      </div>
+    </div>
+
+  </body>
+
+  </html>
