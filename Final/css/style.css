@@ -1,0 +1,141 @@
+
+/* Styles applied to every page */
+* {
+    box-sizing: border-box;
+  }
+
+h3 {
+  width: 10%;
+  border: 5px #778bac solid;
+  border-radius: 25%;
+  padding: 2px;
+  margin:auto;
+  text-align: center;
+  color: #778bac;
+  font-family: Cardo-Regular, serif;
+}
+
+header {
+  position: fixed;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #778bac;
+  text-decoration: underline;
+}
+
+.title {
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.menu {
+  display: inline-block;
+  float: left;
+  min-width: 8em;
+  text-align: center;
+  font-family: Cardo-Regular;
+  color: white;
+  background-color: #d8b494;
+  padding: .75em 0;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  border: 1px solid #000;
+  margin: 0;
+  margin-top: 0.5em;
+  color: #000;
+  background-color: #fff;
+  z-index: 1;
+}
+
+#About-Dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Styles applied to Home Page */
+.container-home-content {
+  width: 90%;
+  padding: 10px;
+  margin:auto;
+  text-align: center;
+  font-family: JosefinSans-Regular, sans-serif;
+  font-size: 15pt;
+  line-height: 1.45em;
+  color: black;
+}
+
+.image-1, .image-3, .image-5, .image-7, .image-9, .image-11{
+  float: left;
+}
+
+.image-2, .image-4, .image-6, .image-8, .image-10, .image-12 {
+  float: right;
+}
+
+/* Styles applied to Services Page */
+ .container-services {
+   width: 90%;
+   border: 1px #2e3339 solid;
+   padding: 10px;
+   margin:auto;
+   text-align: center;
+   font-family: JosefinSans-Regular, sans-serif;
+   font-size: 15pt;
+   line-height: 1.45em;
+   color: black;
+   background-color: #d8b494;
+ }
+
+.services-image {
+  padding-top: 10px;
+}
+
+/* Styles applied to About Page */
+.container-about {
+  width: 90%;
+  border: 1px #2e3339 solid;
+  padding: 10px;
+  padding-top: 10px;
+  margin:auto;
+  text-align: center;
+  font-family: JosefinSans-Regular, sans-serif;
+  font-size: 15pt;
+  line-height: 1.45em;
+  color: black;
+}
+
+.about-text {
+  padding-left: 10px;
+}
+
+.about-image {
+  float: left;
+  padding-right: 10px;
+}
+
+.text {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+/* Styles applied to Contact Page */
+.container-contact {
+  width: 90%;
+  border: 1px #2e3339 solid;
+  padding: 10px;
+  margin:auto;
+  text-align: center;
+  font-family: JosefinSans-Regular, sans-serif;
+  font-size: 15pt;
+  line-height: 1.45em;
+  color: black;
+  background-color: #778bac;
+}

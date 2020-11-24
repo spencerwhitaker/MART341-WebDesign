@@ -1,0 +1,13 @@
+@font-face {
+   font-family: 'Cardo-Regular';
+   src: url('../fonts/Cardo-Regular.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'JosefinSans-Regular';
+   src: url('../fonts/JosefinSans-Regular.ttf') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
